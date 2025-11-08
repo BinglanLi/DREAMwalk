@@ -21,7 +21,7 @@ _Caution:_ All leafs should be branched out from root named as either 'disease' 
 
 The input network file should be a tab- or space-separated `.txt` file with following orders:
 ```python
-source target weight edge_type edge_id
+source target edge_type weight edge_id
 ```
 
 ### Node type label file
