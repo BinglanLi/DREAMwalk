@@ -9,6 +9,7 @@ dependencies = [
     "networkx>=3.5",
     "notebook>=7.4.7",
     "numpy>=2.3.4",
+    "obonet>=1.1.1",
     "pandas>=2.3.3",
     "parmap>=1.7.0",
     "scikit-learn>=1.7.2",
